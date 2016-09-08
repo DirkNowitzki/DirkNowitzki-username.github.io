@@ -1,2 +1,2 @@
-# dirknowitzki.github.com
+# dirknowitzki.github.io
 <h1><a href="http://dirknowitzki.github.io/">个人主页</a></h1>
